@@ -22,3 +22,15 @@ E:\Cherry\CSharpSelenium-master\bin\Debug\WebDriver.Support.xml
 E:\Cherry\CSharpSelenium-master\obj\Debug\Project.csprojResolveAssemblyReference.cache
 E:\Cherry\CSharpSelenium-master\obj\Debug\Project.dll
 E:\Cherry\CSharpSelenium-master\obj\Debug\Project.pdb
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\Project.dll.config
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\Project.dll
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\Project.pdb
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\nunit.framework.dll
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\WebDriver.dll
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\WebDriver.Support.dll
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\nunit.framework.xml
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\WebDriver.xml
+E:\Cherry\cherry\CSharpSelenium-master\bin\Debug\WebDriver.Support.xml
+E:\Cherry\cherry\CSharpSelenium-master\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Cherry\cherry\CSharpSelenium-master\obj\Debug\Project.dll
+E:\Cherry\cherry\CSharpSelenium-master\obj\Debug\Project.pdb

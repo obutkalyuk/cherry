@@ -23,7 +23,7 @@ namespace Tests
          * test 1 Deposit money without bonuses – 
            verification 
            - wallet value should be changed
-           - new value should be 0 + deposit sum = deposit sum as real money
+           - new value should be 0 + deposit sum = deposit  sum as real money
            - message about deposit should appear
          */
         [Test]
